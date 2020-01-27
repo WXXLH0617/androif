@@ -1,3 +1,4 @@
+task assemble{}
 apply plugin: 'version'
 apply plugin: 'idea'
 
