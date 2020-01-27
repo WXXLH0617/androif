@@ -1,2 +1,3 @@
+include ':app'
 include ':pygradle-plugin'
 include ':pivy-importer'
